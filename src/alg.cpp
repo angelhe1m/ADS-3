@@ -17,5 +17,5 @@ int cbinsearch(int *arr, int size, int value) {
       return kol;
     }
   }
-  return 0; 
+  return 0;
 }
